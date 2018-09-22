@@ -1,3 +1,3 @@
 # rsschool-profile
-Valentin Grinkevich
+Валентин Гринкевич
 HTML CSS Basics: https://www.codecademy.com/users/grnkvch/achievements
